@@ -1,5 +1,5 @@
 # django_rest_tutorial
-django rest framework tutorial
+django basic tutorial for other demos.
 
 ## 新建项目music app
 
