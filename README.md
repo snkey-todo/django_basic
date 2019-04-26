@@ -1,11 +1,6 @@
 # django_rest_tutorial
 django basic tutorial for other demos.
 
-## 新建项目music app
-
-[参考](https://github.com/twtrubiks/django-tutorial)
-
-
 ## 自定义错误页面
 
 1. 修改配置文件
